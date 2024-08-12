@@ -10,6 +10,4 @@ How to reach me: [E-mail](mailto:foxcry31@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxcry31&show_icons=true&theme=dark&locale=en&layout=compact" alt="foxcry31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foxcry31&show_icons=true&theme=dark&locale=en" alt="foxcry31" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foxcry31&theme=dark" alt="foxcry31" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=foxcry31&show_icons=true&theme=dark&locale=en" alt="foxcry31" /></p>
